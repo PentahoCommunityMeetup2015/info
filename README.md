@@ -5,7 +5,7 @@ This page holds all the essential info about the Pentahon Community Meetup 2015.
 Most important bits first:
 
 - **Location**: **London**
-- **Date**: **Novemeber 14th** - still **tentative** - before booking something please wait for confirmation!
+- **Date**: **November 14th** - still **tentative** - before booking something please wait for confirmation!
 - **Venue**: TBC
 
 ## Agenda
