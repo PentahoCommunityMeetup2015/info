@@ -10,7 +10,11 @@ Most important bits first:
 
 ## Agenda
 
-TBC
+Rough outline, details TBC:
+
+- **Friday**: Hackaton with fancy prizes to be won
+- **Saturday**: Talks during the day and drinks in the evening
+- **Sunday**: Social activities (e.g. sightseeing)
 
 ## How to submit the talks
 
