@@ -1,4 +1,4 @@
-# Pentahon Community Meetup 2015
+# Pentaho Community Meetup 2015
 
 This page holds all the essential info about the Pentahon Community Meetup 2015.
 
