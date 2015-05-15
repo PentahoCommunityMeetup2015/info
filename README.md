@@ -5,8 +5,8 @@ This page holds all the essential info about the Pentahon Community Meetup 2015.
 Most important bits first:
 
 - **Location**: **London**
-- **Date**: **November 14th** - still **tentative** - before booking something please wait for confirmation!
-- **Venue**: TBC
+- **Date**: **November 7th** - still **tentative** - before booking something please wait for confirmation!
+- **Venue**: Probably [here](http://www.w12conferences.co.uk/index) - But still to be confirmed (By end of May)
 
 ## Agenda
 
@@ -29,8 +29,15 @@ Provide the following:
 
 ## Talks so far (List will evolve!)
 
+Keynotes
 - Pentaho 6.0 product roadmap
 - The impact of the Hitachi - Pentaho deal on Pentaho and the community
+
+Tech Stream
+- Tom Barber of Meteorite BI (magicaltrout) will talk about Saiku and managing metadata in a NoSQL world.
+
+Business Stream
+-
 
 
 ## Costs
