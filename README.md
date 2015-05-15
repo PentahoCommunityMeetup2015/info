@@ -12,7 +12,7 @@ Most important bits first:
 
 Rough outline, details TBC:
 
-- **Friday**: Evening Hackaton in the city with fancy prizes to be won, then drinks!
+- **Friday**: Evening [Hackathon](http://www.meetup.com/Pentaho-London-User-Group/events/222548597/) in the city with fancy prizes to be won, then drinks!
 - **Saturday**: 2 streams of talks - Business and Tech focussed
 - **Saturday Evening** Dinner/drinks around [soho](http://en.wikipedia.org/wiki/Soho)
 - **Sunday**: Social activities (e.g. sightseeing)
