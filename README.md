@@ -31,13 +31,14 @@ Provide the following:
 
 Keynotes
 - Pentaho 6.0 product roadmap
-- The impact of the Hitachi - Pentaho deal on Pentaho and the community
+- Doug Johnson (COO Pentaho) will discuss the impact of the Hitachi - Pentaho deal on Pentaho and the community
+- Pedro will no doubt present something visually appealing
 
 Tech Stream
-- Tom Barber of Meteorite BI (magicaltrout) will talk about Saiku and managing metadata in a NoSQL world.
+- [Tom Barber](https://twitter.com/magicaltrout) of Meteorite BI will talk about Saiku and managing metadata in a NoSQL world
 
 Business Stream
--
+- Nelson Sousa of Ubiquis Consulting will talk about Mapping and the benefits it can provide to the business
 
 
 ## Costs
