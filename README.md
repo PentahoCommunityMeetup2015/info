@@ -5,8 +5,16 @@ This page holds all the essential info about the Pentahon Community Meetup 2015.
 Most important bits first:
 
 - **Location**: **London**
-- **Date**: **November 7th** - still **tentative** - before booking something please wait for confirmation!
+- **Date**: **November 7th** - there will also be a Hackathon on Friday evening and social activites on Sunday.
 - **Venue**: Probably [here](http://www.w12conferences.co.uk/index) - But still to be confirmed (By end of May)
+
+## Registration 
+
+Attending the presentations and hackathon is completely free!
+
+Please register for the main event [here](https://www.eventbrite.com/e/pentaho-community-meeting-tickets-16994065708) for a free ticket.
+
+For the Hackathon on Friday evening please register [here](http://www.meetup.com/Pentaho-London-User-Group/events/222548597/).
 
 ## Agenda
 
