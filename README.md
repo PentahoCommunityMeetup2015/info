@@ -72,7 +72,9 @@ Please visit [Transport for London](www.tfl.gov.uk) for best directions from you
 
 - **Central Line**: **White City** and **East Acton** both within a 10 minute walk.
 - **Hammersmith & City** and **Circle Lines**: **Wood Lane** within a 12 min walk
- 
+
+![](./img/w12-conf-dir-tube.jpg)
+
 **Buses**
 Buses 7, 70, 72, 272 & 283 bus routes stop directly outside on Du Cane Road.  When getting off the bus, look for Queen Charlottes hospital, to your left when looking at Hammersmith Hospital.  Artillery Lane is the road running past this towards the car park.  Follow this road and turn right at the mini roundabout, then turn left directly into the W12 courtyard, our reception is here.
 
