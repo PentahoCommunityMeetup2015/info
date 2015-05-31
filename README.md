@@ -74,7 +74,7 @@ Take Victoria Line to Oxford Circus. Change to Central Line to White City statio
 **Kings Cross/St Pancras** – 25 mins
 Take Hammersmith & City or Circle line to Wood Lane Tube station
 
-> **IMPORTANT**: The conference centre is part of the Hospital. **YOU MUST NOT ENTER** via the main hospital entrance. There is a read between the **Prison** and **Hospital** which will take you to conference centre:
+> **IMPORTANT**: The conference centre is part of the Hospital. **YOU MUST NOT ENTER** via the main hospital entrance. There is a road between the **Prison** and **Hospital** which will take you to conference centre:
 
 ![](./img/w12-conf-directions.jpg) 
 
@@ -88,6 +88,7 @@ Keynotes
 
 Tech Stream
 - [Tom Barber](https://twitter.com/magicaltrout) of Meteorite BI will talk about Saiku and managing metadata in a NoSQL world
+- Caio Moreno de Souza: Monitoring the BI Pentaho Server using Pentaho CE Audit and Performance Monitoring Plugin / Creating Maps with Saiku Chart Plus
 
 Business Stream
 - Nelson Sousa of Ubiquis Consulting will talk about Mapping and the benefits it can provide to the business
