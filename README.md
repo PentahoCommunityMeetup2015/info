@@ -6,7 +6,7 @@ Most important bits first:
 
 - **Location**: **London**
 - **Date**: **November 7th** - there will also be a Hackathon on Friday evening and social activites on Sunday.
-- **Venue**: Probably [here](http://www.w12conferences.co.uk/index) - But still to be confirmed (By end of May)
+- **Venue**: [W12 Conferences](http://www.w12conferences.co.uk/index), West London
 
 ## Registration 
 
@@ -14,7 +14,7 @@ Attending the presentations and hackathon is completely free!
 
 Please register for the main event [here](https://www.eventbrite.com/e/pentaho-community-meeting-tickets-16994065708) for a free ticket.
 
-For the Hackathon on Friday evening please register [here](http://www.meetup.com/Pentaho-London-User-Group/events/222548597/).
+For the Hackathon on Friday evening please register [here](http://www.meetup.com/Pentaho-London-User-Group/events/222548597/). 
 
 ## Agenda
 
@@ -34,6 +34,50 @@ Provide the following:
 - Your full name
 - Links to your profie and company
 - Title of the talk and synopsis
+
+# Saturday: Venue Info, Agenda Etc
+
+
+## Venue Location
+
+[W12 Conferences](http://www.w12conferences.co.uk/index), West London.
+
+**Address**:
+W12 Conferences
+Artillery Lane
+150 Du Cane Road
+London
+W12 0HS
+
+## How to Get There
+
+Please visit [Transport for London](www.tfl.gov.uk) for best directions from your London location to ours.
+
+**Nearest tube stations** 
+
+- **Central Line**: **White City** and **East Acton** both within a 10 minute walk.
+- **Hammersmith & City** and **Circle Lines**: **Wood Lane** within a 12 min walk
+ 
+**Buses**
+Buses 7, 70, 72, 272 & 283 bus routes stop directly outside on Du Cane Road.  When getting off the bus, look for Queen Charlottes hospital, to your left when looking at Hammersmith Hospital.  Artillery Lane is the road running past this towards the car park.  Follow this road and turn right at the mini roundabout, then turn left directly into the W12 courtyard, our reception is here.
+
+**Nearest Mainline Train stations**
+Paddington Station - 10 mins
+Take Hammersmith & City or Circle line to Wood Lane Tube station
+ 
+**Liverpool Street** – 25 mins
+Take Central Line to White City station
+ 
+**Victoria Station** – 22 mins
+Take Victoria Line to Oxford Circus. Change to Central Line to White City station.
+ 
+**Kings Cross/St Pancras** – 25 mins
+Take Hammersmith & City or Circle line to Wood Lane Tube station
+
+> **IMPORTANT**: The conference centre is part of the Hospital. **YOU MUST NOT ENTER** via the main hospital entrance. There is a read between the **Prison** and **Hospital** which will take you to conference centre:
+
+![](./img/w12-conf-directions.jpg) 
+
 
 ## Talks so far (List will evolve!)
 
