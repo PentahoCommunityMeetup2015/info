@@ -43,7 +43,7 @@ Provide the following:
 
 ## Venue Location
 
-TBC
+Near **Liverpool Street Station**, details TBC
 
 ## How to Get There
 
@@ -57,10 +57,11 @@ TBC
 [W12 Conferences](http://www.w12conferences.co.uk/index), West London.
 
 **Address**:
-W12 Conferences
-Artillery Lane
-150 Du Cane Road
-London
+
+W12 Conferences,
+Artillery Lane,
+150 Du Cane Road,
+London,
 W12 0HS
 
 ## How to Get There
