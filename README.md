@@ -1,11 +1,11 @@
 # Pentaho Community Meetup 2015
 
-This page holds all the essential info about the Pentahon Community Meetup 2015.
+This page holds all the essential info about the Pentaho Community Meetup 2015.
 
 Most important bits first:
 
 - **Location**: **London**
-- **Date**: **November 7th** - there will also be a Hackathon on Friday evening and social activites on Sunday.
+- **Date**: **November 7th** - there will also be a Hackathon on Friday evening and social activities on Sunday.
 - **Venue**: [W12 Conferences](http://www.w12conferences.co.uk/index), West London
 
 ## Registration 
@@ -15,6 +15,10 @@ Attending the presentations and hackathon is completely free!
 Please register for the main event [here](https://www.eventbrite.com/e/pentaho-community-meeting-tickets-16994065708) for a free ticket.
 
 For the Hackathon on Friday evening please register [here](http://www.meetup.com/Pentaho-London-User-Group/events/222548597/). 
+
+## Costs
+
+- As with previous PCM meetups there will be a nominal charge to cover lunch on Saturday.
 
 ## Agenda
 
@@ -35,6 +39,16 @@ Provide the following:
 - Links to your profie and company
 - Title of the talk and synopsis
 
+# Friday: Venue Info, Agenda Etc
+
+## Venue Location
+
+TBC
+
+## How to Get There
+
+TBC
+
 # Saturday: Venue Info, Agenda Etc
 
 
@@ -51,7 +65,7 @@ W12 0HS
 
 ## How to Get There
 
-Please visit [Transport for London](www.tfl.gov.uk) for best directions from your London location to ours.
+Please visit [Transport for London](www.tfl.gov.uk) for best directions from your London location to W12 Conferences.
 
 **Nearest tube stations** 
 
@@ -93,15 +107,6 @@ Tech Stream
 Business Stream
 - Nelson Sousa of Ubiquis Consulting will talk about Mapping and the benefits it can provide to the business
 
-
-## Costs
-
-- As with previous PCM meetups there will be a nominal charge to cover lunch on Saturday.
-
-## How to get here
-
-Easy: London has several airports and international rail hence is very well connected.  Contact us if you have any transport questions.
-
-## Hotels
+# Hotels
 
 TBC
