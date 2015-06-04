@@ -106,6 +106,7 @@ Keynotes
 Tech Stream
 - [Tom Barber](https://twitter.com/magicaltrout) of Meteorite BI will talk about Saiku and managing metadata in a NoSQL world
 - Caio Moreno de Souza: Monitoring the BI Pentaho Server using Pentaho CE Audit and Performance Monitoring Plugin / Creating Maps with Saiku Chart Plus
+- Will Gorman - Pentaho Chief Architect will present something exciting!
 
 Business Stream
 - Nelson Sousa of Ubiquis Consulting will talk about Mapping and the benefits it can provide to the business
