@@ -99,17 +99,21 @@ Take Hammersmith & City or Circle line to Wood Lane Tube station
 ## Talks so far (List will evolve!)
 
 Keynotes
+
 - Pentaho 6.0 product roadmap
 - Doug Johnson (COO Pentaho) will discuss the impact of the Hitachi - Pentaho deal on Pentaho and the community
 - Pedro will no doubt present something visually appealing
 
 Tech Stream
+
 - [Tom Barber](https://twitter.com/magicaltrout) of Meteorite BI will talk about Saiku and managing metadata in a NoSQL world
-- Caio Moreno de Souza: Monitoring the BI Pentaho Server using Pentaho CE Audit and Performance Monitoring Plugin / Creating Maps with Saiku Chart Plus
+- [Caio Moreno de Souza](http://blog.professorcoruja.com): Monitoring the BI Pentaho Server using Pentaho CE Audit and Performance Monitoring Plugin / Creating Maps with Saiku Chart Plus
 - Will Gorman - Pentaho Chief Architect will present something exciting!
 - Antonio García-Domínguez: ArtifactCatalog: Better Descriptions and Hierarchical Tagging for Pentaho Resources
+- [Roland Bouman](http://rpbouman.blogspot.co.uk): Will talk about PHASE.
 
 Business Stream
+
 - Nelson Sousa of Ubiquis Consulting will talk about Mapping and the benefits it can provide to the business
 
 # Hotels
