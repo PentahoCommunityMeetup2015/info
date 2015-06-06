@@ -110,7 +110,7 @@ Tech Stream
 - [Caio Moreno de Souza](http://blog.professorcoruja.com): Monitoring the BI Pentaho Server using Pentaho CE Audit and Performance Monitoring Plugin / Creating Maps with Saiku Chart Plus
 - Will Gorman - Pentaho Chief Architect will present something exciting!
 - Antonio García-Domínguez: ArtifactCatalog: Better Descriptions and Hierarchical Tagging for Pentaho Resources
-- [Roland Bouman](http://rpbouman.blogspot.co.uk): Will talk about PHASE (Pentaho Analysis Editor).
+- [Roland Bouman](http://rpbouman.blogspot.co.uk): Will talk about PHASE (Pentaho Analysis Editor) and PASH (Pentaho Analysis Shell).
 
 Business Stream
 
