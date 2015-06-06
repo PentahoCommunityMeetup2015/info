@@ -10,11 +10,11 @@ Most important bits first:
 
 ## Registration 
 
-Attending the presentations and hackathon is completely free!
+Attending the presentations and hackathon is completely **free**!
 
-Please register for the main event [here](https://www.eventbrite.com/e/pentaho-community-meeting-tickets-16994065708) for a free ticket.
+Please register for the **main event** [here](https://www.eventbrite.com/e/pentaho-community-meeting-tickets-16994065708) for a free ticket.
 
-For the Hackathon on Friday evening please register [here](http://www.meetup.com/Pentaho-London-User-Group/events/222548597/). 
+For the **hackathon** on Friday evening please register [here](http://www.meetup.com/Pentaho-London-User-Group/events/222548597/). 
 
 ## Costs
 
