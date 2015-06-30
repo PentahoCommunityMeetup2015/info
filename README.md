@@ -1,3 +1,5 @@
+![](./img/pcm-2015-logo.png)
+
 # Pentaho Community Meetup 2015
 
 This page holds all the essential info about the Pentaho Community Meetup 2015.
