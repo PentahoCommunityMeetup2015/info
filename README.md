@@ -1,4 +1,4 @@
-![](./img/pcm-2015-logo.png)
+![](./img/pcm-2015-logo.jpg)
 
 # Pentaho Community Meetup 2015
 
