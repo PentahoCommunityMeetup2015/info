@@ -117,6 +117,7 @@ Tech Stream
 - [Sébastian Jelsch](): Bigdata MDX with Mondrian and Kylin
 - [Webdetails](http://www.webdetails.pt): All the secrets behind Pentaho 6.0
 - [Webdetails](http://www.webdetails.pt): cTools roadmap
+- [Know BI](): Metadata injection driven map-reduce
 
 Business Stream
 
