@@ -115,6 +115,8 @@ Tech Stream
 - [Roland Bouman](http://rpbouman.blogspot.co.uk): Will talk about PHASE (Pentaho Analysis Editor) and PASH (Pentaho Analysis Shell).
 - [Miguel Cunhal](https://twitter.com/mcunhal): Will present 15-20 top tips and tricks for PDI
 - [Sébastian Jelsch](): Bigdata MDX with Mondrian and Kylin
+- [Webdetails](http://www.webdetails.pt): All the secrets behind Pentaho 6.0
+- [Webdetails](http://www.webdetails.pt): cTools roadmap
 
 Business Stream
 
