@@ -110,14 +110,14 @@ Tech Stream
 
 - [Tom Barber](https://twitter.com/magicaltrout) of Meteorite BI will talk about Saiku and managing metadata in a NoSQL world
 - [Caio Moreno de Souza](http://blog.professorcoruja.com): Monitoring the BI Pentaho Server using Pentaho CE Audit and Performance Monitoring Plugin / Creating Maps with Saiku Chart Plus
-- Will Gorman - Pentaho Chief Architect will present something exciting!
+- [Will Gorman - Pentaho Chief Architect](https://twitter.com/wpgorman) will present something exciting!
 - Antonio García-Domínguez and Inmaculada Medina-Bulo: ArtifactCatalog: Better Descriptions and Hierarchical Tagging for Pentaho Resources
 - [Roland Bouman](http://rpbouman.blogspot.co.uk): Will talk about PHASE (Pentaho Analysis Editor) and PASH (Pentaho Analysis Shell).
 - [Miguel Cunhal](https://twitter.com/mcunhal): Will present 15-20 top tips and tricks for PDI
 
 Business Stream
 
-- Nelson Sousa of Ubiquis Consulting will talk about Mapping and the benefits it can provide to the business
+- [Nelson Sousa of Ubiquis Consulting](https://twitter.com/ubiquisbi) will talk about Mapping and the benefits it can provide to the business
 
 # Hotels
 
