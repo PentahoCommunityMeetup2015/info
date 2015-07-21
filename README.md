@@ -113,6 +113,7 @@ Tech Stream
 - Will Gorman - Pentaho Chief Architect will present something exciting!
 - Antonio García-Domínguez and Inmaculada Medina-Bulo: ArtifactCatalog: Better Descriptions and Hierarchical Tagging for Pentaho Resources
 - [Roland Bouman](http://rpbouman.blogspot.co.uk): Will talk about PHASE (Pentaho Analysis Editor) and PASH (Pentaho Analysis Shell).
+- [Miguel Cunhal](https://twitter.com/mcunhal): Will present 15-20 top tips and tricks for PDI
 
 Business Stream
 
