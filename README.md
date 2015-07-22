@@ -118,6 +118,7 @@ Tech Stream
 - [Webdetails](http://www.webdetails.pt): All the secrets behind Pentaho 6.0
 - [Webdetails](http://www.webdetails.pt): cTools roadmap
 - [Know BI](): Metadata injection driven map-reduce
+- [Pedro Vale (Webdetails)](http://www.webdetails.pt): How to easily embed your Ctools dashboard in your web application
 
 Business Stream
 
