@@ -122,6 +122,7 @@ Tech Stream
 Business Stream
 
 - [Nelson Sousa of Ubiquis Consulting](https://twitter.com/ubiquisbi) will talk about Mapping and the benefits it can provide to the business
+- [Owen Bowden](https://twitter.com/tweetsfromowen) Beating blood cancer with help from the Pentaho community
 
 # Hotels
 
