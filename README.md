@@ -103,8 +103,8 @@ Take Hammersmith & City or Circle line to Wood Lane Tube station
 Keynotes
 
 - Pentaho 6.0 product roadmap
-- Doug Johnson (COO Pentaho) will discuss the impact of the Hitachi - Pentaho deal on Pentaho and the community
-- Pedro will no doubt present something visually appealing
+- [Doug Johnson (COO Pentaho)](): Will discuss the impact of the Hitachi - Pentaho deal on Pentaho and the community
+- [Pedro Alves](https://twitter.com/pmalves): cTools roadmap / community update
 
 Tech Stream
 
@@ -116,7 +116,6 @@ Tech Stream
 - [Miguel Cunhal](https://twitter.com/mcunhal): Will present 15-20 top tips and tricks for PDI
 - [Sébastian Jelsch](): Bigdata MDX with Mondrian and Kylin
 - [Webdetails](http://www.webdetails.pt): All the secrets behind Pentaho 6.0
-- [Webdetails](http://www.webdetails.pt): cTools roadmap
 - [Know BI](): Metadata injection driven map-reduce
 - [Pedro Vale (Webdetails)](http://www.webdetails.pt): How to easily embed your cTools dashboard in your web application
 - [Pedro Martins (Webdetails)](http://www.webdetails.pt): Responsive design with cTools
