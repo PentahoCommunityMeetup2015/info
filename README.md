@@ -98,6 +98,10 @@ Take Hammersmith & City or Circle line to Wood Lane Tube station
 ![](./img/w12-conf-directions.jpg) 
 
 
+## Social Media
+
+Twitter hashtag: #pcm15
+
 ## Talks so far (List will evolve!)
 
 Keynotes
