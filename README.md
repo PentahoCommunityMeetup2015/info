@@ -26,9 +26,9 @@ For the **hackathon** on Friday evening please register [here](http://www.meetup
 
 Rough outline, details TBC:
 
-- **Friday**: Evening [Hackathon](http://www.meetup.com/Pentaho-London-User-Group/events/222548597/) in the city with fancy prizes to be won, then drinks!
+- **Friday**: Evening [Hackathon](http://www.meetup.com/Pentaho-London-User-Group/events/222548597/) in the city with fancy prizes (courtessy of IVY-IS) to be won, then drinks!
 - **Saturday**: 2 streams of talks - Business and Tech focussed
-- **Saturday Evening** Dinner/drinks around [soho](http://en.wikipedia.org/wiki/Soho)
+- **Saturday Evening** Dinner/drinks around [Piccadilly Circys](https://en.wikipedia.org/wiki/Piccadilly_Circus)
 - **Sunday**: Social activities (e.g. sightseeing)
 
 ## How to submit the talks
@@ -45,11 +45,12 @@ Provide the following:
 
 ## Venue Location
 
-Near **Liverpool Street Station**, details TBC
+Skillsmatter "CodeNode"
+[How to get there](https://skillsmatter.com/locations/264-skills-matter-codenode#getthere)
 
-## How to Get There
+Time - TBC - Evening, which hackathon starting by 7pm, possibly other events occurring before.
 
-TBC
+Agenda
 
 # Saturday: Venue Info, Agenda Etc
 
