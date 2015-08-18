@@ -132,4 +132,17 @@ Business Stream
 
 # Hotels
 
-TBC
+Below are a few hotel suggestions.
+
+## Central London
+Hotels close to Soho, Covent Garden, Piccadilly Circus. They are closer to the social events on Saturday night, but expect around 30 minutes to get to the conveference venue on Saturday:
+- Travelodge Covent Garden: https://www.travelodge.co.uk/hotels/318/London-Central-Covent-Garden-hotel
+- The Z Hotel Soho: http://www.booking.com/hotel/gb/the-z-hotels-soho.en-gb.html
+- The Bloomsbury Hotel: http://www.booking.com/hotel/gb/the-bloomsbury.en-gb.html
+- Cheshire Hotel: http://www.booking.com/hotel/gb/cheshirehotel.en-gb.html
+- Holiday Inn London Mayfair: http://www.booking.com/hotel/gb/holiday-inn-london-mayfair.en-gb.html
+
+## Acton/White City
+These hotels are closer to the conference venue. They are located in zone 2 of the London transporation zone, about 15-20 minutes from Central London
+- Holiday Inn Express Park Royal (next to North Acton central line tube station): http://www.booking.com/hotel/gb/exhiparkroyal.en-gb.html
+- Westfield Apartments (next to White City tube station): http://www.booking.com/hotel/gb/26-white-city-close.en-gb.html
