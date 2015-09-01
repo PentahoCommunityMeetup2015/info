@@ -119,7 +119,7 @@ Tech Stream
 - Antonio García-Domínguez and Inmaculada Medina-Bulo: ArtifactCatalog: Better Descriptions and Hierarchical Tagging for Pentaho Resources
 - [Roland Bouman](http://rpbouman.blogspot.co.uk): Will talk about PHASE (Pentaho Analysis Editor) and PASH (Pentaho Analysis Shell).
 - [Miguel Cunhal](https://twitter.com/mcunhal): Will present 15-20 top tips and tricks for PDI
-- [Sébastian Jelsch](): Bigdata MDX with Mondrian and Kylin
+- [Sébastian Jelsch](): Bigdata MDX with Mondrian and Apache Kylin
 - [Webdetails](http://www.webdetails.pt): All the secrets behind Pentaho 6.0
 - [Know BI](): Metadata injection driven map-reduce
 - [Pedro Vale (Webdetails)](http://www.webdetails.pt): How to easily embed your cTools dashboard in your web application
