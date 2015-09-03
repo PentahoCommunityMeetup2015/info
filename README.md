@@ -139,7 +139,7 @@ Please note London is a very large city and commuting may be time consuming. We 
 London Underground is expected to start a 24 hour service during the fall on week-ends. The announced date was September 12, but the recent Tube strikes have pushed this back and there is no official date for commencement of the 24 service yet.
 
 ## Central London
-These hotels are close to the social events on Saturday night, but expect around 30 minutes to get to the conveference venue on Saturday:
+These hotels are close to the social events on Saturday night, but expect around 30 minutes to get to the conference venue on Saturday:
 - Travelodge Covent Garden: https://www.travelodge.co.uk/hotels/318/London-Central-Covent-Garden-hotel
 - The Z Hotel Soho: http://www.booking.com/hotel/gb/the-z-hotels-soho.en-gb.html
 - The Bloomsbury Hotel: http://www.booking.com/hotel/gb/the-bloomsbury.en-gb.html
