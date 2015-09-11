@@ -129,6 +129,7 @@ Business Stream
 
 - [Nelson Sousa of Ubiquis Consulting](https://twitter.com/ubiquisbi) will talk about Mapping and the benefits it can provide to the business
 - [Owen Bowden](https://twitter.com/tweetsfromowen) Beating blood cancer with help from the Pentaho community
+- [Mark Stubbs](https://www.linkedin.com/pub/mark-stubbs/5/45/98) Pentaho Solutions Architect will talk about some of the most exciting Pentaho BigData projects currently running in London
 
 # Hotels
 
