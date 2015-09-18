@@ -113,7 +113,7 @@ Twitter hashtag: #pcm15
 
 ### Tech Stream
 
-- [Matt Casters](http://www.ibridge.be), PPentaho Chief of Data Integration / Kettle project founder: Data Sets and Unit Tests PDI plugin
+- [Matt Casters](http://www.ibridge.be), Pentaho Chief of Data Integration / Kettle project founder: Data Sets and Unit Tests PDI plugin
 - [Tom Barber](https://twitter.com/magicaltrout) of Meteorite BI will talk about Saiku and managing metadata in a NoSQL world
 - [Caio Moreno de Souza](http://blog.professorcoruja.com): Monitoring the BI Pentaho Server using Pentaho CE Audit and Performance Monitoring Plugin / Creating Maps with Saiku Chart Plus
 - [Will Gorman - Pentaho Chief Architect](https://twitter.com/wpgorman) will present something exciting!
