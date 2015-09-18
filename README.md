@@ -29,7 +29,7 @@ Rough outline, details TBC:
 - **Friday**: Evening [Hackathon](http://www.meetup.com/Pentaho-London-User-Group/events/222548597/) in the city with fancy prizes (courtessy of IVY-IS) to be won, then drinks!
 - **Saturday**: 2 streams of talks - Business and Tech focussed
 - **Saturday Evening** Dinner/drinks around [Piccadilly Circys](https://en.wikipedia.org/wiki/Piccadilly_Circus)
-- **Sunday**: Social activities (e.g. sightseeing)
+- **Sunday**: The sightseeing tour all sightseeing tours should be like. Not to be missed.
 
 ## How to submit the talks
 
@@ -130,6 +130,16 @@ Business Stream
 - [Nelson Sousa of Ubiquis Consulting](https://twitter.com/ubiquisbi) will talk about Mapping and the benefits it can provide to the business
 - [Owen Bowden](https://twitter.com/tweetsfromowen) Beating blood cancer with help from the Pentaho community
 - [Mark Stubbs](https://www.linkedin.com/pub/mark-stubbs/5/45/98) Pentaho Solutions Architect will talk about some of the most exciting Pentaho BigData projects currently running in London
+
+# Sunday: Venue info, agenda, etc.
+
+## Location: central London
+
+## Agenda: the London sightseeing tour you wish all sightseeing tours would be like.
+
+A guided tour of London not to be missed. Only 30 spots available, pre-registration required when you sign-in to the conference on Saturday.
+
+Will last 2 hours approximately, covering the City of London and surrounding areas.
 
 # Hotels
 
