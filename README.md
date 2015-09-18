@@ -105,14 +105,15 @@ Twitter hashtag: #pcm15
 
 ## Talks so far (List will evolve!)
 
-Keynotes
+### Keynotes
 
 - Pentaho 6.0 product roadmap
 - [Doug Johnson (COO Pentaho)](): Will discuss the impact of the Hitachi - Pentaho deal on Pentaho and the community
 - [Pedro Alves](https://twitter.com/pmalves): cTools roadmap / community update
 
-Tech Stream
+### Tech Stream
 
+- [Matt Casters](http://www.ibridge.be), PPentaho Chief of Data Integration / Kettle project founder: Data Sets and Unit Tests PDI plugin
 - [Tom Barber](https://twitter.com/magicaltrout) of Meteorite BI will talk about Saiku and managing metadata in a NoSQL world
 - [Caio Moreno de Souza](http://blog.professorcoruja.com): Monitoring the BI Pentaho Server using Pentaho CE Audit and Performance Monitoring Plugin / Creating Maps with Saiku Chart Plus
 - [Will Gorman - Pentaho Chief Architect](https://twitter.com/wpgorman) will present something exciting!
@@ -125,7 +126,7 @@ Tech Stream
 - [Pedro Vale (Webdetails)](http://www.webdetails.pt): How to easily embed your cTools dashboard in your web application
 - [Pedro Martins (Webdetails)](http://www.webdetails.pt): Responsive design with cTools
 
-Business Stream
+### Business Stream
 
 - [Nelson Sousa of Ubiquis Consulting](https://twitter.com/ubiquisbi) will talk about Mapping and the benefits it can provide to the business
 - [Owen Bowden](https://twitter.com/tweetsfromowen) Beating blood cancer with help from the Pentaho community
