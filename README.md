@@ -125,12 +125,14 @@ Twitter hashtag: #pcm15
 - [Know BI](): Metadata injection driven map-reduce
 - [Pedro Vale (Webdetails)](http://www.webdetails.pt): How to easily embed your cTools dashboard in your web application
 - [Pedro Martins (Webdetails)](http://www.webdetails.pt): Responsive design with cTools
+- [Francesco Corti](https://twitter.com/frkcorti) and Alberto Mercati: transparent and trusted authentication between an external application and Pentaho. (If you've not seen Francescos presentations before you're in for a treat!)
 
 ### Business Stream
 
 - [Nelson Sousa of Ubiquis Consulting](https://twitter.com/ubiquisbi) will talk about Mapping and the benefits it can provide to the business
 - [Owen Bowden](https://twitter.com/tweetsfromowen) Beating blood cancer with help from the Pentaho community
 - [Mark Stubbs](https://www.linkedin.com/pub/mark-stubbs/5/45/98) Pentaho Solutions Architect will talk about some of the most exciting Pentaho BigData projects currently running in London
+- [Juanjo Ortilles](https://twitter.com/jortilles) Web Adhoc Query Executor (WAQE) A successor to WAQR.
 
 # Sunday: Venue info, agenda, etc.
 
