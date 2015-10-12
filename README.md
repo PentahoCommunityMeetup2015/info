@@ -1,8 +1,8 @@
 ![](./img/pcm-2015-logo.jpg)
 
-# Pentaho Community Meetup 2015
+# Pentaho Community Meeting 2015
 
-This page holds all the essential info about the Pentaho Community Meetup 2015.
+This page holds all the essential info about the Pentaho Community Meeting 2015.
 
 Most important bits first:
 
@@ -20,7 +20,7 @@ For the **hackathon** on Friday evening please register [here](http://www.meetup
 
 ## Costs
 
-- As with previous PCM meetups there will be a nominal charge to cover lunch on Saturday.
+- As with previous PCM meetings there will be a nominal charge to cover lunch on Saturday.
 
 ## Agenda
 
