@@ -122,6 +122,7 @@ Twitter hashtag: #pcm15
 - [Miguel Cunhal](https://twitter.com/mcunhal): Will present 15-20 top tips and tricks for PDI
 - [Sébastian Jelsch](): Bigdata MDX with Mondrian and Apache Kylin
 - [Webdetails](http://www.webdetails.pt): All the secrets behind Pentaho 6.0
+- [Jens Bleuel](https://twitter.com/jensbleuel): Everything you wanted to know about PDI 6.0
 - [Know BI](): Metadata injection driven map-reduce
 - [Pedro Vale (Webdetails)](http://www.webdetails.pt): How to easily embed your cTools dashboard in your web application
 - [Pedro Martins (Webdetails)](http://www.webdetails.pt): Responsive design with cTools
