@@ -116,7 +116,7 @@ Twitter hashtag: #pcm15
 - [Matt Casters](http://www.ibridge.be), Pentaho Chief of Data Integration / Kettle project founder: Data Sets and Unit Tests PDI plugin
 - [Tom Barber](https://twitter.com/magicaltrout) of Meteorite BI will talk about Saiku and managing metadata in a NoSQL world
 - [Caio Moreno de Souza](http://blog.professorcoruja.com): Monitoring the BI Pentaho Server using Pentaho CE Audit and Performance Monitoring Plugin / Creating Maps with Saiku Chart Plus
-- [Will Gorman - Pentaho Chief Architect](https://twitter.com/wpgorman) will present something exciting!
+- ~~[Will Gorman - Pentaho Chief Architect](https://twitter.com/wpgorman) will present something exciting!~~
 - Antonio García-Domínguez and Inmaculada Medina-Bulo: ArtifactCatalog: Better Descriptions and Hierarchical Tagging for Pentaho Resources
 - [Roland Bouman](http://rpbouman.blogspot.co.uk): Will talk about PHASE (Pentaho Analysis Editor) and PASH (Pentaho Analysis Shell).
 - [Miguel Cunhal](https://twitter.com/mcunhal): Will present 15-20 top tips and tricks for PDI
@@ -135,6 +135,7 @@ Twitter hashtag: #pcm15
 - [Mark Stubbs](https://www.linkedin.com/pub/mark-stubbs/5/45/98) Pentaho Solutions Architect will talk about some of the most exciting Pentaho BigData projects currently running in London
 - [Juanjo Ortilles](https://twitter.com/jortilles) Web Adhoc Query Executor (WAQE) A successor to WAQR.
 - [Emilio Arias](https://twitter.com/e_arias) Analyzing Ashley Madison data with Pentaho
+- [Marcello Pontes from oncase](https://twitter.com/marpontes) Customizing biserver with Tapa and some more plugin goodies. How to take advantage of the plugin whats reusable ans some more hot news for Dashboarders.
 
 # Sunday: Venue info, agenda, etc.
 
