@@ -108,7 +108,7 @@ Twitter hashtag: #pcm15
 ### Keynotes
 
 - Pentaho 6.0 product roadmap
-- [Doug Johnson (COO Pentaho)](): Will discuss the impact of the Hitachi - Pentaho deal on Pentaho and the community
+- [Bob Kemper (Executive VP of Engineering)](https://twitter.com/pentaho): Will discuss the impact of the Hitachi - Pentaho deal on Pentaho and the community
 - [Pedro Alves](https://twitter.com/pmalves): cTools roadmap / community update
 
 ### Tech Stream
@@ -121,12 +121,13 @@ Twitter hashtag: #pcm15
 - [Roland Bouman](http://rpbouman.blogspot.co.uk): Will talk about PHASE (Pentaho Analysis Editor) and PASH (Pentaho Analysis Shell).
 - [Miguel Cunhal](https://twitter.com/mcunhal): Will present 15-20 top tips and tricks for PDI
 - [Sébastian Jelsch](): Bigdata MDX with Mondrian and Apache Kylin
-- [Webdetails](http://www.webdetails.pt): All the secrets behind Pentaho 6.0
+- [Pedro Vale (Webdetails)](http://www.webdetails.pt): All the secrets behind Pentaho 6.0
 - [Jens Bleuel](https://twitter.com/jensbleuel): Everything you wanted to know about PDI 6.0
 - [Know BI](): Metadata injection driven map-reduce
-- [Pedro Vale (Webdetails)](http://www.webdetails.pt): How to easily embed your cTools dashboard in your web application
+- [Diogo Mariano (Webdetails)](http://www.webdetails.pt): How to easily embed your cTools dashboard in your web application
 - [Pedro Martins (Webdetails)](http://www.webdetails.pt): Responsive design with cTools
 - [Francesco Corti](https://twitter.com/frkcorti) and Alberto Mercati: transparent and trusted authentication between an external application and Pentaho. (If you've not seen Francescos presentations before you're in for a treat!)
+- [Marc Batchelor (founder and VP of Engineering Pentaho)](): Community Contribution Guidelines and Process – How can the community contribute to Pentaho Development
 
 ### Business Stream
 
