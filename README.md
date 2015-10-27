@@ -128,6 +128,7 @@ Twitter hashtag: #pcm15
 - [Julio Costa (Webdetails)](http://www.webdetails.pt): Responsive design with cTools
 - [Francesco Corti](https://twitter.com/frkcorti) and Alberto Mercati: transparent and trusted authentication between an external application and Pentaho. (If you've not seen Francescos presentations before you're in for a treat!)
 - [Marc Batchelor (founder and VP of Engineering Pentaho)](): Community Contribution Guidelines and Process – How can the community contribute to Pentaho Development
+- [Andre Simoes (XpandIT](): Taming Big Data - Big data is getting mature, is your company ready to handle capture and orchestrate all the processes running within a cluster?
 
 ### Business Stream
 
