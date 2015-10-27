@@ -125,7 +125,7 @@ Twitter hashtag: #pcm15
 - [Jens Bleuel](https://twitter.com/jensbleuel): Everything you wanted to know about PDI 6.0
 - [Know BI](): Metadata injection driven map-reduce
 - [Diogo Mariano (Webdetails)](http://www.webdetails.pt): How to easily embed your cTools dashboard in your web application
-- [Pedro Martins (Webdetails)](http://www.webdetails.pt): Responsive design with cTools
+- [Julio Costa (Webdetails)](http://www.webdetails.pt): Responsive design with cTools
 - [Francesco Corti](https://twitter.com/frkcorti) and Alberto Mercati: transparent and trusted authentication between an external application and Pentaho. (If you've not seen Francescos presentations before you're in for a treat!)
 - [Marc Batchelor (founder and VP of Engineering Pentaho)](): Community Contribution Guidelines and Process – How can the community contribute to Pentaho Development
 
