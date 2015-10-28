@@ -1,6 +1,6 @@
 ![](./img/pcm-2015-logo.jpg)
 
-# Pentaho Community Meeting 2015
+# Pentaho Community Meeting 2015 [#PCM15](https://twitter.com/search?q=%23pcm15&src=typd)
 
 This page holds all the essential info about the Pentaho Community Meeting 2015.
 
