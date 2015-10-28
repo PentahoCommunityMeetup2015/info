@@ -106,8 +106,7 @@ Twitter hashtag: #pcm15
 ## Talks so far (List will evolve!)
 
 ### Keynotes
-
-- Pentaho 6.0 product roadmap
+- [??](): Pentaho 6 Product Roadmap
 - [Bob Kemper (Executive VP of Engineering)](https://twitter.com/pentaho): Will discuss the impact of the Hitachi - Pentaho deal on Pentaho and the community
 - [Pedro Alves](https://twitter.com/pmalves): cTools roadmap / community update
 
@@ -116,7 +115,6 @@ Twitter hashtag: #pcm15
 - [Matt Casters](http://www.ibridge.be), Pentaho Chief of Data Integration / Kettle project founder: Data Sets and Unit Tests PDI plugin
 - [Tom Barber](https://twitter.com/magicaltrout) of Meteorite BI will talk about Saiku and managing metadata in a NoSQL world
 - [Caio Moreno de Souza](http://blog.professorcoruja.com): Monitoring the BI Pentaho Server using Pentaho CE Audit and Performance Monitoring Plugin / Creating Maps with Saiku Chart Plus
-- ~~[Will Gorman - Pentaho Chief Architect](https://twitter.com/wpgorman) will present something exciting!~~
 - Antonio García-Domínguez and Inmaculada Medina-Bulo: ArtifactCatalog: Better Descriptions and Hierarchical Tagging for Pentaho Resources
 - [Roland Bouman](http://rpbouman.blogspot.co.uk): Will talk about PHASE (Pentaho Analysis Editor) and PASH (Pentaho Analysis Shell).
 - [Miguel Cunhal](https://twitter.com/mcunhal): Will present 15-20 top tips and tricks for PDI
@@ -128,16 +126,15 @@ Twitter hashtag: #pcm15
 - [Julio Costa (Webdetails)](http://www.webdetails.pt): Responsive design with cTools
 - [Francesco Corti](https://twitter.com/frkcorti) and Alberto Mercati: transparent and trusted authentication between an external application and Pentaho. (If you've not seen Francescos presentations before you're in for a treat!)
 - [Marc Batchelor (founder and VP of Engineering Pentaho)](): Community Contribution Guidelines and Process – How can the community contribute to Pentaho Development
-- [Andre Simoes (XpandIT](): Taming Big Data - Big data is getting mature, is your company ready to handle capture and orchestrate all the processes running within a cluster?
 
 ### Business Stream
 
-- ~~[Nelson Sousa of Ubiquis Consulting](https://twitter.com/ubiquisbi) will talk about Mapping and the benefits it can provide to the business~~
 - [Owen Bowden](https://twitter.com/tweetsfromowen) Beating blood cancer with help from the Pentaho community
 - [Mark Stubbs](https://www.linkedin.com/pub/mark-stubbs/5/45/98) Pentaho Solutions Architect will talk about some of the most exciting Pentaho BigData projects currently running in London
 - [Juanjo Ortilles](https://twitter.com/jortilles) Web Adhoc Query Executor (WAQE) A successor to WAQR.
 - [Emilio Arias](https://twitter.com/e_arias) Analyzing Ashley Madison data with Pentaho
 - [Marcello Pontes from oncase](https://twitter.com/marpontes) Customizing biserver with Tapa and some more plugin goodies. How to take advantage of the plugin whats reusable ans some more hot news for Dashboarders.
+- [Andre Simoes (XpandIT](): Taming Big Data - Big data is getting mature, is your company ready to handle capture and orchestrate all the processes running within a cluster?
 
 # Sunday: Venue info, agenda, etc.
 
@@ -147,7 +144,7 @@ Twitter hashtag: #pcm15
 
 A guided tour of London not to be missed. Only 30 spots available, pre-registration required when you sign-in to the conference on Saturday.
 
-Will last 2 hours approximately, covering the City of London and surrounding areas.
+Will last 2 hours approximately, covering the City of London and surrounding areas.  Follow twitter to see where we end up for lunch.
 
 # Hotels
 
