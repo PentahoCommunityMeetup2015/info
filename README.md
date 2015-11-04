@@ -24,6 +24,8 @@ For the **hackathon** on Friday evening please register [here](http://www.meetup
 
 ## Agenda
 
+**BREAKING - AGENDA HERE: [https://dankeeley.wordpress.com/2015/11/04/pcm15-agenda-with-timings-saturday-7th-november-london](https://dankeeley.wordpress.com/2015/11/04/pcm15-agenda-with-timings-saturday-7th-november-london/)**
+
 Rough outline, details TBC:
 
 - **Friday**: Evening [Hackathon](http://www.meetup.com/Pentaho-London-User-Group/events/222548597/) in the city with fancy prizes (courtessy of IVY-IS) to be won, then drinks!
