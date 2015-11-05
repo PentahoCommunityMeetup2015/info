@@ -73,10 +73,12 @@ W12 0HS
 
 Please visit [Transport for London](www.tfl.gov.uk) for best directions from your London location to W12 Conferences.
 
+> **IMPORTANT UPDATE**: **Circle and Hammersmith and City** lines will be **closed** over the weekend between Edgware Road and Hammersmith! **YOU MUST TAKE CENTRAL LINE INSTEAD** to get to the venue! See [here](https://tfl.gov.uk/tube-dlr-overground/status/?startdate=2015-11-07&endDate=2015-11-08&dateTypeSelect=This+weekend) for details.
+
 **Nearest tube stations** 
 
 - **Central Line**: **White City** and **East Acton** both within a 10 minute walk.
-- **Hammersmith & City** and **Circle Lines**: **Wood Lane** within a 12 min walk
+- **Hammersmith & City** and **Circle Lines**: ARE CLOSED!!! DO NOT TAKE!!!
 
 ![](./img/w12-conf-dir-tube.jpg)
 
